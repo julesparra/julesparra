@@ -1,5 +1,4 @@
 # welcome to my GitHub profile! 👋🏼
-## so happy to have you here 💚
 
 ### I'm Jules, a...
 🐢 senior at the University of Maryland studying business information systems <br>
@@ -12,3 +11,5 @@
 - business (The Journal, How I Built This, The Colin and Samir Show), comedy (The TryPod, Ear Biscuits), or history (They Did That) podcasts 
 - books - I enjoy literary fiction and historical fiction 📖
 - tasty spots to hit up in San Francisco and the greater Bay Area 😋
+
+enjoy perusing my projects :') feel free to connect via LinkedIn: [/in/julesparra](https://www.linkedin.com/in/julesparra/) - just leave me a message!
