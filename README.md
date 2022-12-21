@@ -1,6 +1,4 @@
-# welcome to my GitHub profile! 👋🏼
-
-### I'm Jules, a...
+### hi there! I'm Jules 👋🏼, a...
 🐢 senior at the University of Maryland studying business information systems <br>
 🌁 incoming Tech Analyst at Accenture <br>
 💻 recreational web developer <br>
