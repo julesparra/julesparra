@@ -1,13 +1,14 @@
 ## hi there! I'm Jules 👋🏼, a...
-🐢 senior at the University of Maryland studying business information systems <br>
-🌁 incoming Tech Analyst at Accenture <br>
-💻 recreational web developer <br>
+🌁 Tech Analyst at Accenture <br>
+💻 recreational web developer & a11y (digital accessibility) advocate <br>
+📚 avid reader, public library enthusiast, bookstore peruser, and book collector (yes, these  are separate hobbies 😇) <br>
 
 ### what I love talking about:
 - good (and bad) product design 🧠
-- travel - I've been to 30+ countries and intend to work and live abroad 🧳
-- business (The Journal, How I Built This, The Colin and Samir Show), comedy (The TryPod, Ear Biscuits), and history (They Did That) podcasts 
-- books - I enjoy literary fiction and historical fiction 📖
-- tasty spots to try in San Francisco and the greater Bay Area 😋
+- experiences as a Third Culture Kid - my experience living in SE Asia as a kid has impacted me from the foods I enjoy to details of my identity 🇭🇰🇹🇭
+- your favorite reads and book recommendations 🤓
+- books - I enjoy reading widely across non-fiction, graphic novels, and literary fiction/historical fiction 📖
+- the effects of swimming on mental and physical health 🏊🏼‍♀️
+- tasty spots to try in SF 😋
 
 enjoy perusing my projects :') feel free to connect via LinkedIn: [/in/julesparra](https://www.linkedin.com/in/julesparra/) - just leave me a message!
